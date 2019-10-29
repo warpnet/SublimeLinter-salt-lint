@@ -17,10 +17,4 @@ In order for `salt-lint` to be executed by SublimeLinter, you must ensure that i
 ## Settings
 - SublimeLinter settings: http://sublimelinter.readthedocs.org/en/latest/settings.html
 - Linter settings: http://sublimelinter.readthedocs.org/en/latest/linter_settings.html
-
-Additional SublimeLinter-salt-lint settings:
-
-|Setting|Description    |
-|:------|:--------------|
-|foo    |Something.     |
-|bar    |Something else.|
+- Salt-lint settings: https://github.com/warpnet/salt-lint#command-line-options
