@@ -1,6 +1,6 @@
 SublimeLinter-salt-lint
--------------------------------
-This linter plugin for SublimeLinter provides an interface to salt-lint.
+-----------------------
+This linter plugin for SublimeLinter provides an interface to salt-lint, a command-line utility that checks for best practices in SaltStack.
 
 For more information, please see:
 https://github.com/warpnet/SublimeLinter-salt-lint

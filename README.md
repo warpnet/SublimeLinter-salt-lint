@@ -1,9 +1,9 @@
-SublimeLinter-salt-linter
-================================
+SublimeLinter-salt-lint
+=======================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-salt-linter.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-salt-linter)
+[![Build Status](https://travis-ci.org/warpnet/SublimeLinter-salt-lint.svg?branch=master)](https://travis-ci.org/warpnet/SublimeLinter-salt-lint)
 
-This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [salt-lint](https://github.com/warpnet/salt-lint). It will be used with __Salt state files__ (SLS) files.
+This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [salt-lint](https://github.com/warpnet/salt-lint), a command-line utility that checks for best practices in SaltStack. It will be used with __Salt State files__ (SLS) files.
 
 ## Installation
 SublimeLinter must be installed in order to use this plugin.
