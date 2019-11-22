@@ -10,7 +10,6 @@ class SaltLint(lint.Linter):
              r'.+:(?P<line>\d+)\s+'
              r'(?P<near>.+)')
     multiline = True
-    default_type = lint.WARNING
     defaults = {
         'selector': 'source.sls'
     }
