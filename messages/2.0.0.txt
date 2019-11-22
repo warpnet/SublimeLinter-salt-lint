@@ -1,0 +1,5 @@
+SublimeLinter-salt-lint 2.0.0
+-----------------------------
+This version depends on salt-lint 0.2.0. If you have not installed or updated it yet, please do so to be able to use this plug-in.
+
+Errors can now be highlighted differently than warnings.
